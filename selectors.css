@@ -84,7 +84,7 @@ label{
 }
 
 /*Hacer la primera letra del elemento con id 'special' verde y con un tamaño de fuente de 100px(font-size: 100) - 0,5 PUNTOS*/
-#especial::first-letter{
+#especial:first-letter{
     color: green;
     font-size: 100;
 }
